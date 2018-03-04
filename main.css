@@ -5,10 +5,11 @@
     padding: 5px;
 }
 
-.listing__make .listing__model {
+.listing__make, .listing__model {
     font-size: 18px;
     color: slategray;
 }
+
 
 .listing__price {
     font-size: 16px;
